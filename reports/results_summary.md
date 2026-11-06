@@ -1,7 +1,7 @@
 EMG Signal Detective — Results Summary
 
 
-1. Project Overview
+## 1. Project Overview
 
 This project explores surface electromyography (sEMG) signals using Python and a real-world dataset from PhysioNet.
 
@@ -10,7 +10,7 @@ The analysis focuses on a 2-second recording of the left tibialis anterior muscl
 The project combines signal visualization, numerical analysis, and basic signal processing to better understand how EMG recordings can be analyzed and interpreted.
 
 
-2. Dataset and Methodology
+## 2. Dataset and Methodology
 
 Dataset
 
@@ -37,7 +37,7 @@ Signal processing: Applying a 10-sample moving average filter (5 ms window) to s
 The original and processed signals were then compared using their amplitude measurements, waveforms, and frequency spectra.
 
 
-3. Key Findings
+## 3. Key Findings
 
 Amplitude Measurements
 
